@@ -8,7 +8,7 @@ The goal of the project is to detect hand signs representing the English alphabe
 
 ## 🚀 How to Run the Project
 
-### 1. Install Requirements
+### Install Requirements
 
 ```bash
 pip install -r requirements.txt
