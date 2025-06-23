@@ -6,6 +6,15 @@ This project focuses on detecting hand signs corresponding to English alphabets 
 
 The goal of the project is to detect hand signs representing the English alphabet (A-Z). It involves collecting, annotating, training, and evaluating a YOLOv8m model that can accurately recognize individual hand signs from images.
 
+## 🚀 How to Run the Project
+
+### 1. Install Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ## 🧠 Approach
 
 1. **Custom Dataset Creation**:
