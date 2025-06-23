@@ -1,4 +1,4 @@
 - Python 3.8+
 - Ultralytics YOLOv8 (`pip install ultralytics`)
 - Roboflow (for dataset preparation, optional)
-- OpenCV, Matplotlib, etc. (used in notebooks)
+- OpenCV, Matplotlib 
