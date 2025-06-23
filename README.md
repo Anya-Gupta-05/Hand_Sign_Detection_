@@ -74,4 +74,14 @@ This directory includes various visualizations and analysis outputs from trainin
 
 The model performs well at detecting and classifying hand signs with high precision and recall, making it suitable for real-world applications such as gesture-based communication tools.
 
+---
+# WORKING DEMO
+
+
+
+https://github.com/user-attachments/assets/e2265ae5-b257-4af1-bea9-b61cbc6e311f
+
+
+
+
 
